@@ -33,7 +33,7 @@ int main(){
     cout<<"==============================="<<endl;
     cout<<"[Bina]: Nih Than Rincian kemabliannya"<<endl;
     cout<<"total kembalian :"<<kembalian<<endl;
-    cout<<"--------------------------------"<<endl;
+    cout<<"---------------------------------"<<endl;
 
     cout<<"Rp 100.000"<<"Lembar"<<endl;
     cout<<"Rp 500.000"<<"Lembar"<<endl;
