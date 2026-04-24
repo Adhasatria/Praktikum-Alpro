@@ -67,8 +67,8 @@ int main(){
     kembalian %=coin3; 
    
 
-    cout<<"Rp 100.000:    "<< indikasi1 <<" Lembar"<<endl;
-    cout<<"Rp 50.000      "<< indikasi2<<" Lembar"<<endl;
+    cout<<"Rp 100.000:    "<<indikasi1 <<" Lembar"<<endl;
+    cout<<"Rp 50.000      "<<indikasi2<<" Lembar"<<endl;
     cout<<"Rp 20.000      "<<indikasi3<<" Lembar"<<endl;
     cout<<"Rp 10.000      "<<indikasi4<<" Lembar"<<endl;
     cout<<"Rp 5.000       "<<indikasi5<<" Lembar"<<endl;
